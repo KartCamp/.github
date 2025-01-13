@@ -14,7 +14,7 @@ Our team combines passion for racing with technical expertise to build tools tha
 ### 🛠️ What We Do
 - **⏱️ Advanced Timing Systems**: From karting to drifting, we provide precise and reliable timing solutions for all types of racing events.
 - **📊 Race Management Software**: Streamline event organization and ensure smooth operations with our custom-built software for karting and motorsports.
-- **🎥 Live Race Packaging**: Bring the thrill of the race to audiences worldwide with our professional live streaming and event broadcasting tools.
+- **🎥 Broadcast Graphics**: Design and deliver captivating on-screen graphics for live race broadcasts, enhancing the viewing experience for audiences worldwide.
 - **🏎️ Community and Innovation**: Empower drivers, teams, and organizers with technology that enhances every aspect of the racing experience.
 
 ---
